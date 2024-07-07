@@ -40,17 +40,29 @@ Install ROS noetic
 
 2- Update the package.
 
+![Screenshot 2024-07-06 014441](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/dc9c37ec-8b09-4e9c-9d70-904fc6de7c46)
+
+
 
 3- Install the ROS noetic desktop full version.
 
+![Screenshot 2024-07-06 014728](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/7ac3d44f-1e23-48df-8ffd-a353840994a8)
+
 4- Setup ROS environment.
+
+![Screenshot 2024-07-06 020452](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/e1edbc7b-7272-4ad2-a3f4-a2c4f6774961)
 
 5- To auto-load the ROS environment you need to run this script.
 
+![Screenshot 2024-07-06 022044](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/e5508aaa-2703-47a4-8f40-a23877234a74)
+
 6- Install additional ROS tools.
+
+![Screenshot 2024-07-06 020932](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/ce7304b9-e0e4-4549-a3be-a1b4248ccd0d)
 
 7- Initialize rosdep.
 
+![Screenshot 2024-07-06 021200](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/4f917d22-df82-4a9b-8b68-bc71844fef35)
 
 Manipulate with turtlesim package in ROS noetic
 
