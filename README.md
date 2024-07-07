@@ -36,9 +36,15 @@ Install ROS noetic
 
 
 Manipulate with turtlesim package in ROS noetic
+
 1- Install turtlesim.
+
 2- Start ROS master.
+
 3- Open turtlesim.
+
 4- You can control the turtle by using the keyboard. 
+
 5- Create a new turtle.
+
 5- Change the background color.
