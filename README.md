@@ -9,6 +9,7 @@ In this task, I will explain how to install ROS notice on Ubuntu 20.04 to use tu
 First I will explain how to install an Ubuntu 20.04 on a virtual machine.
 
 1- Create a new virtual machine.
+
 2- You need to specify the iso image for the Ubuntu.
 
 ![Screenshot 2024-07-06 010131](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/88d401de-8911-44fe-8d22-662c26178810)
@@ -33,7 +34,12 @@ Install ROS noetic
 
 ![Screenshot 2024-07-06 013327](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/76ab016d-ce92-4080-85fb-61faff7b131b)
 
+![Screenshot 2024-07-06 014125](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/70e549bd-101b-4f7d-b1b3-e824f95d5627)
+
+![Screenshot 2024-07-06 014403](https://github.com/Jumana-Alsulami1/ros_noetic-task/assets/174968169/f82d226d-67ff-46dc-8606-504abe40c649)
+
 2- Update the package.
+
 
 3- Install the ROS noetic desktop full version.
 
